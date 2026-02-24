@@ -49,7 +49,6 @@ spec:
 ============================================================
 
     
-
 Suggestions:
  * list clusters with: kops get cluster
  * edit this cluster with: kops edit cluster shivani.k8s.local
